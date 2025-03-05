@@ -1,0 +1,2 @@
+D:/flut_projets/chat_app/android/app/.cxx/Debug/415d3k69/x86/CMakeFiles/edit_cache.dir
+D:/flut_projets/chat_app/android/app/.cxx/Debug/415d3k69/x86/CMakeFiles/rebuild_cache.dir
